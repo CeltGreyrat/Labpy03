@@ -1,6 +1,5 @@
 # Latihan 1
 
-
 ## Code
 import random
 
@@ -18,6 +17,9 @@ for i in range(1, n + 1):
 
 print("Selesai")
 ````
+
+## Output
+![Output](Latihan1.png)
 
 ## Penjelasan alur algoritma program
 
@@ -59,6 +61,9 @@ for bulan in range(1, 9):
 # Menampilkan total laba
 print(f"Total laba adalah: {total_laba}")
 ````
+
+## Output
+![Output](Latihan2.png)
 
 ## Penjelasan alur algoritma program 
 
@@ -113,6 +118,9 @@ def atm():
 
 atm()
 ````
+
+## Output
+![Output](Latihan3.png)
 
 ## Penjelasan 
 
